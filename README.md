@@ -1,6 +1,6 @@
 # Hi there, I'm Mary Heaven 👋
 
-<img src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" height="350" width="700"/>
+<img src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif" height="400" width="700"/>
 
 I am a dedicated Data Science enthusiast in Chennai, with a strong passion for extracting meaningful insights from data. My enthusiasm lies in undertaking projects that address real-world challenges, allowing me to apply my knowledge and skills to make a positive impact. I am committed to leveraging data-driven approaches to contribute effectively to the field of Data Science.
 
